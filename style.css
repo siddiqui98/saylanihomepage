@@ -1,0 +1,470 @@
+img{
+    height: 35px;
+    position: relative;
+    top: 15px;
+    left: 100px;
+    
+    
+}
+
+
+
+
+
+.first{
+    background-color: blue;
+    height: 60px;
+    width: 450px;
+    float: left;
+}
+
+.second{
+    float: left;
+    background-color: blue;
+    height: 50px;
+    padding: 5px;
+    width: 520px;
+    color: white;
+    
+
+}
+.third{
+    float: left;
+    background-color: blue;
+    text-align: center;
+    width: 310px;
+    height: 40px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.logo{
+    
+    height: 90px;
+    width: 200px;
+    position: relative;
+    top: 0px;
+}
+
+
+
+
+.fourth{
+    clear: both;
+    height: 65px;
+    width: 450px;
+    float: left;
+    
+}
+
+
+
+
+li{
+    
+    height: 35px;
+    text-align: center;
+    display: inline-block;
+    float: left;
+    padding: 15px;
+    margin: 12px;
+    
+}
+    
+
+
+
+button{
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    
+}
+
+
+.cover{
+    
+    position: relative;
+    left: 0px;
+    width:100%;
+    height: 100%;
+}
+
+.fifth{
+    clear: both;
+    height: 450px;
+}
+
+.sixth{
+    height: 30px;
+    margin: 30px;
+background-color: blue;
+color: white;
+
+}
+
+h1{
+    height: 10px;
+    padding: 30px;
+    text-align: center;
+    color:blue;
+}
+
+
+
+
+
+
+
+
+.small{
+    width: 30%;
+    position: relative;
+    top: -25px;
+    left: 550px;
+}
+
+span{
+    color:green;
+}
+
+
+.para{
+    margin: 25px;
+    text-align: justify;
+    font-size: larger;
+    width: 75%;
+    position: relative;
+    left: 150px;
+    line-height: 30px;
+    
+}
+
+
+
+
+
+
+
+
+
+.wel1{
+    background-color: blue;
+    width: 25%;
+    float: left;
+    text-align: center;
+    height: 300px;
+    position: relative;
+    top: 1px;
+
+}
+
+.wel2 {
+        background-color: blue;
+        width: 25%;
+         float: left;
+         text-align: center;
+         height: 300px;
+         position: relative;
+         top: 1px;
+
+
+
+
+
+}
+
+.wel3{
+    background-color: blue;
+    width: 25%;
+    float: left;
+    text-align: center;
+    height: 300px;
+    position: relative;
+    top: 1px;
+
+
+
+
+
+
+}
+
+.wel4{
+    background-color: blue;
+    width: 25%;
+    float: left;  
+    text-align: center;
+    height: 300px;
+    position: relative;
+    top: 1p
+    
+    
+    
+    
+}
+
+
+.wellogo{
+    position: relative;
+    left: 10px;
+    top: 80px;
+
+
+
+}
+
+
+
+
+
+.faci{
+    position: relative;
+    top: 40%;
+    color: white;
+    font-size: larger;
+    
+}
+
+
+.work{  
+        clear: both;
+        margin: 350px;
+        text-align: center;
+        font-size: xx-large;  
+        color: blue;  
+        position: relative;
+        top: 90px; 
+}
+
+
+    .small1{
+
+    width: 30%;
+    position: relative;
+    top: -260px;
+    left: 550px;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.online{
+
+        margin: 10px;
+        float: left;
+        border-style: outset;
+        color: blue;
+        text-align: center;
+        width: 25%;
+        height: 180px;
+        position: relative;
+        top: -200px;
+        left: 100px;
+
+}
+
+
+.onlinelogo{
+
+    position: relative;
+    left: 1px;
+    margin: 10px;
+    width: 40px;
+    height: 50px;
+    vertical-align: middle;
+    cursor: pointer;
+
+
+}
+
+.p1{
+    font-size: 30px;
+    position: relative;
+    top: 15px;
+}
+
+
+h2{
+    clear: both;
+    color: blue;
+    position: relative;
+    top: -110px;
+    left: 115px;
+}
+
+.parent{
+    height: 300px;
+    width: 70%;
+    position: relative;
+    top: -240px;
+    display: inline-block;
+
+}
+
+.child1{
+    height: 80px;
+    width: 35%;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    display: inline-block;
+    border-style: inset;
+}
+
+.childlogo{
+
+    position: relative;
+    left: 20px;
+    top: 20px;
+    cursor: pointer;
+}
+
+.p2{
+
+    position: relative;
+    left: 70px;
+    top: -30px;
+    font-size: large;
+    color: blue;
+}
+
+.child2{
+    height: 80px;
+    width: 35%;
+    position: relative;
+    top: 20px;    
+    left: 200px;
+    display: inline-block;
+    border-style: inset;
+
+}
+
+
+.child3{
+
+    height: 80px;
+    width: 35%;
+    position: relative;
+    top: 60px;    
+    left: 100px;
+    border-style: inset;
+
+}
+
+
+.child4{
+    height: 80px;
+    width: 35%;
+    position: relative;
+    top: -25px;    
+    left: 535px;
+    border-style: inset;
+
+}
+
+.parent2{
+
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    position: relative;
+    top: -185px;
+
+}
+
+.p3{
+
+    color: blue;
+    font-size: x-large;
+    line-height: 30px;
+}
+
+
+.gallery{
+    text-align: center;
+    font-size:xx-large ;
+    font-weight: bolder;
+    color: blue;
+    position: relative;
+    top: -130px;
+}
+
+
+
+.gallogo{
+
+    position: relative;
+    top: -120px;
+    left: 650px;
+}
+
+
+.imggallery{
+    position: relative;
+    top: -90px;
+}
+
+
+
+
+.pics{
+
+    width: 230px;
+    height: 150px;
+}
+
+
+
+
+.footer{
+    background-color: gray;
+    line-height: 30px;
+    color: white;
+}
+
+
+.footertext{
+
+    position: relative;
+    top: 50px;
+    left: 80px;
+}
+
+
+.footer1{
+    position: relative;
+    left: 830px;
+    top: -220px;
+    font-weight: bolder;
+}
+
+
+.footer2{
+    position: relative;
+    left: 700px;
+    top: -200px;
+    width: 30%;
+}
+
+
